@@ -1,6 +1,6 @@
 # Soluna Dial
 
-A Foundry VTT module that displays a custom time, calendar, sun/moon dial, and weather HUD using PIXI.js.
+A Foundry VTT module that displays a custom time, calendar, sun/moon dial, and weather HUD using PIXI.js. 
 
 ## Features
 
