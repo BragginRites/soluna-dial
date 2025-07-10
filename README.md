@@ -18,7 +18,7 @@ A Foundry VTT module that displays a custom time, calendar, sun/moon dial, and w
     *   Customize dial image opacity, marker color, and marker opacity.
 
 
-![image](https://imgur.com/rEnvSIc)
+![image](https://github.com/user-attachments/assets/3aefbdbd-4071-41e5-b64a-4199a7ef6fa0)
 
 *(This is a work-in-progress concept and the final appearance may vary based on settings and further development)*
 
