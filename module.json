@@ -1,0 +1,43 @@
+{
+    "id": "soluna-dial",
+    "title": "Soluna Dial",
+    "description": "A custom time, calendar, sun/moon dial, and weather HUD using PIXI.js.",
+    "version": "0.1.0",
+    "compatibility": {
+      "minimum": "12",
+      "verified": "12"
+    },
+    "relationships": {
+      "systems": [],
+      "requires": [
+        {
+          "id": "foundryvtt-simple-calendar",
+          "type": "module",
+          "compatibility": {}
+        }
+      ]
+    },
+    "authors": [
+      {
+        "name": "BragginRites",
+        "discord": "braggin#1205"
+      }
+    ],
+    "esmodules": [
+      "src/solunaDial.js",
+      "src/solunaDialSettings.js"
+    ],
+    "styles": [
+      "styles/solunaDial.css"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "url": "https://github.com/BragginRites/soluna-dial",
+    "manifest": "https://github.com/BragginRites/soluna-dial/releases/download/0.1.0/module.json",
+    "download": "https://github.com/BragginRites/soluna-dial/releases/tag/0.1.0/sulina-dial.zip"
+  }

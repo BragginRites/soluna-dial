@@ -1,0 +1,35 @@
+/* Soluna Dial Base Styles */
+
+#soluna-dial-canvas {
+  position: fixed !important;
+  top: var(--soluna-dial-top-padding, 10px) !important;
+  left: 50% !important;
+  right: auto !important;
+  transform: translateX(-50%) !important; /* Center horizontally */
+  z-index: 1000; /* Ensure it's above most other UI elements */
+  pointer-events: auto; /* Allow interactions with the canvas */
+  background-color: transparent !important; /* Remove white background */
+  background: transparent !important; /* Remove white background */
+}
+
+/* Hide the HUD when the master toggle is off */
+#soluna-dial-canvas.soluna-dial-hidden {
+  display: none !important;
+}
+
+/* Additional positioning class for CSS positioning */
+.soluna-dial-canvas-positioned {
+  position: fixed !important;
+  top: var(--soluna-dial-top-padding, 10px) !important;
+  left: 50% !important;
+  right: auto !important;
+  transform: translateX(-50%) !important;
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* 
+  This file styles the PIXI.js canvas for the Soluna Dial module.
+  The canvas is positioned at the top center of the screen.
+  Using !important to override any conflicting styles.
+*/ 

@@ -1,0 +1,31 @@
+{
+    "soluna-dial.settings.masterHudToggle.name": "Master HUD Toggle",
+    "soluna-dial.settings.masterHudToggle.hint": "Globally enable or disable the Soluna Dial.",
+    "soluna-dial.settings.globalFontFamily.name": "Global Font Family",
+    "soluna-dial.settings.globalFontFamily.hint": "Set the font family for all text elements in the Soluna Dial.",
+    "soluna-dial.settings.hudTopPadding.name": "HUD Top Padding",
+    "soluna-dial.settings.hudTopPadding.hint": "Set the top padding for the HUD (e.g., '20px', '5%'). Useful for aligning with other UI elements.",
+    "soluna-dial.settings.globalUiSize.name": "Global UI Size",
+    "soluna-dial.settings.globalUiSize.hint": "Adjust the overall size of the Soluna Dial. 1.0 is default.",
+    "soluna-dial.settings.globalFontOpacity.name": "Global Font Opacity",
+    "soluna-dial.settings.globalFontOpacity.hint": "Adjust the opacity of all text elements. 1.0 is fully opaque.",
+    "soluna-dial.settings.toggleSecondsDisplay.name": "Toggle Seconds Display",
+    "soluna-dial.settings.toggleSecondsDisplay.hint": "Show or hide seconds in the time display.",
+
+    "soluna-dial.settings.topBarOpacity.name": "Top Bar Background Opacity",
+    "soluna-dial.settings.topBarOpacity.hint": "Adjust the opacity of the top bar background (time and calendar area).",
+    "soluna-dial.settings.toggleCalendarDisplay.name": "Toggle Calendar Display",
+    "soluna-dial.settings.toggleCalendarDisplay.hint": "Show or hide the calendar display in the top bar.",
+
+    "soluna-dial.settings.dialImageOpacity.name": "Dial Image Opacity",
+    "soluna-dial.settings.dialImageOpacity.hint": "Adjust the opacity of the sun/moon dial image.",
+    "soluna-dial.settings.toggleDialMarker.name": "Toggle Dial Current Time Marker",
+    "soluna-dial.settings.toggleDialMarker.hint": "Show or hide the marker indicating the current time on the dial.",
+    "soluna-dial.settings.dialMarkerColor.name": "Dial Marker Color",
+    "soluna-dial.settings.dialMarkerColor.hint": "Set the color of the dial's current time marker.",
+    "soluna-dial.settings.dialMarkerOpacity.name": "Dial Marker Opacity",
+    "soluna-dial.settings.dialMarkerOpacity.hint": "Adjust the opacity of the dial's current time marker.",
+
+    "soluna-dial.settings.toggleWeatherDisplay.name": "Toggle Weather Display",
+    "soluna-dial.settings.toggleWeatherDisplay.hint": "Show or hide the weather display text."
+} 
